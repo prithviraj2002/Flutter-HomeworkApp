@@ -1,7 +1,7 @@
 # Problems I faced while building this app in flutter
 
 1:  Connecting to the internet
-    Connecting to the internet, making requests using api was cumbersome and 
+    Making requests using api and connecting to the internet was cumbersome and 
     I had to look up to a lot of code and documentations online to implement it in the app.
 
 2:  Handling JSON file
