@@ -49,7 +49,7 @@ To prepare to run and test your Flutter app on the Android emulator, follow thes
 Step 1: Enable VM acceleration on your machine.
 
 Step 2: Launch Android Studio, click the AVD Manager icon, and select Create Virtual Device…
-        : In older versions of Android Studio, you should instead launch Android Studio > Tools > Android > AVD Manager and select Create Virtual Device…. (The Android submenu is only present when inside an Android project.)
+        : In older versions of Android Studio, you should instead launch Android Studio > Tools > Android > AVD Manager and select Create Virtual Device…. (The               Android submenu is only present when inside an Android project.)
         : If you do not have a project open, you can choose Configure > AVD Manager and select Create Virtual Device…
 
 Step 3: Choose a device definition and select Next.
